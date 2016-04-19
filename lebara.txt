@@ -1,0 +1,13 @@
+126124
+Bonus................
+---------------------
+
+
+
+
+ Transaction Receipt
+
+Thank you. The payment was approved
+Your Order of purchase:	ORDER76345
+Transaction Amount:	AU$14.95
+
